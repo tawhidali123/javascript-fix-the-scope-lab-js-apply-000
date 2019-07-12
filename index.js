@@ -29,7 +29,7 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var x = 'FUNKY!'
 var theFunk = funkyFunction() {
-  return x;
+  return x
 }
 
 
